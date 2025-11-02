@@ -1,0 +1,9 @@
+﻿[
+  {"id": 12, "nameCN": "焗豆罐头", "nameEN": "Canned Baked Beans", "tags": ["Food"], "quality": 1, "description": "焗豆罐头。", "price": 102, "weight": 0.39, "market": [""], "image": "🥫"},
+  {"id": 13, "nameCN": "苏打饼干", "nameEN": "Soda Crackers", "tags": ["Food"], "quality": 1, "description": "一摞苏打饼干。", "price": 51, "weight": 0.05, "market": [""], "image": "🍪"},
+  {"id": 14, "nameCN": "可乐", "nameEN": "Cola", "tags": ["Food", "Drink"], "quality": 4, "description": "有糖的可乐才有灵魂。", "price": 1995, "weight": 0.36, "market": [""], "image": "🥤"},
+  {"id": 18, "nameCN": "水浸金枪鱼罐头", "nameEN": "Canned Tuna in Water", "tags": ["Food"], "quality": 2, "description": "一罐水煮金枪鱼。", "price": 172, "weight": 0.36, "market": [""], "image": "🥫"},
+  {"id": 19, "nameCN": "油浸金枪鱼罐头", "nameEN": "Canned Tuna in Oil", "tags": ["Food"], "quality": 3, "description": "一罐油浸金枪鱼。", "price": 376, "weight": 0.36, "market": [""], "image": "🥫"},
+  {"id": 21, "nameCN": "红条香烟", "nameEN": "Red-Band Cigarette", "tags": ["Food"], "quality": 2, "description": "一盒普通的香烟。", "price": 105, "weight": 0.03, "market": [""], "image": "🚬"},
+  {"id": 29, "nameCN": "伏特加", "nameEN": "Vodka", "tags": ["Food", "Drink"], "quality": 3, "description": "喝了会开心,然后脱水。", "price": 902, "weight": 0.68, "market": [""], "image": "🍶"}
+]

@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vitepress": "^1.6.4",
+    "vue": "^3.4.21"
+  },
+  "scripts": {
+    "generate:items": "node scripts/generate-items-list.js",
+    "docs:dev": "npm run generate:items && vitepress dev .",
+    "docs:build": "npm run generate:items && vitepress build .",
+    "docs:preview": "vitepress preview"
+  }
+}

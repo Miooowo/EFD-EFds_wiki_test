@@ -1,0 +1,6 @@
+[
+  {"id": 10, "nameCN": "止血绷带", "nameEN": "Bandage", "tags": ["Medic", "Healing"], "quality": 1, "description": "可以止血,并回复微少生命值。", "price": 80, "weight": 0.05, "market": ["售货机"], "image": "💊"},
+  {"id": 20, "nameCN": "阿司匹林", "nameEN": "Aspirin", "tags": ["Medic", "Healing"], 
+    "quality": 1, "description": "小剂量药品，回复血量，并提供镇痛效果。", 
+    "price": 32, "weight": 0.03, "market": ["none"], "image": "💊"}
+]

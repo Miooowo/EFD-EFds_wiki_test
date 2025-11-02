@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as l,ae as e}from"./chunks/framework.CQndfmgb.js";const c=JSON.parse('{"title":"使用指南","description":"","frontmatter":{},"headers":[],"relativePath":"USE.md","filePath":"USE.md"}'),t={name:"USE.md"};function n(o,i,h,r,d,p){return l(),a("div",null,[...i[0]||(i[0]=[e("",59)])])}const u=s(t,[["render",n]]);export{c as __pageData,u as default};

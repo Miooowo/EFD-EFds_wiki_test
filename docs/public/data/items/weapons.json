@@ -1,0 +1,4 @@
+[
+  {"id": 1, "nameCN": "切肉刀", "nameEN": "Cleaver", "tags": ["Weapon", "MeleeWeapon","DontDropOnDeadInSlot"], "quality": 9, "description": "看起来很粗犷的刀，不是很锋利。", "price": 17501, "weight": 3, "market": [], "image": "🔪"},
+  {"id": 1074, "nameCN": "棒球棍", "nameEN": "Baseball Bat", "tags": ["Weapon", "MeleeWeapon","DontDropOnDeadInSlot","Special"], "quality": 3, "description": "很常见的木制棒球棍。", "price": 689, "weight": 0.5, "market": [""], "image": "⚾"}
+]

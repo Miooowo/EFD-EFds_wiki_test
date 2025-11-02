@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as n,ae as l}from"./chunks/framework.CQndfmgb.js";const c=JSON.parse('{"title":"逃离鸭科夫 - 物品图鉴","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),e={name:"README.md"};function t(h,s,p,o,r,d){return n(),i("div",null,[...s[0]||(s[0]=[l("",30)])])}const g=a(e,[["render",t]]);export{c as __pageData,g as default};

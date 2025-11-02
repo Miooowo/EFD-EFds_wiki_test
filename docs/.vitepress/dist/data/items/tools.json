@@ -1,0 +1,4 @@
+﻿[
+  {"id": 8, "nameCN": "R6电池", "nameEN": "R6 Battery", "tags": ["Electric", "Bait"], "quality": 1, "description": "在各种用电器中被广泛使用的电池。", "price": 194, "weight": 0.08, "market": [""], "image": "🔋"},
+  {"id": 11, "nameCN": "PP3电池", "nameEN": "PP3 Battery", "tags": ["Electric"], "quality": 2, "description": "通常用于烟雾探测器、遥控玩具发射器以及作为闹钟的后备电池。", "price": 323, "weight": 0.12, "market": [""], "image": "🔋"}
+]
