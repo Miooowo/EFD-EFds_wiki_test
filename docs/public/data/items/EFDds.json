@@ -6,9 +6,11 @@
     "quality": 2,
     "price": 610,
     "weight": 0.08,
-    "tags": ["Daily"],
+    "tags": [
+      "Daily"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/9/92/Compass.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Compass.png"
   },
   {
     "id": 312153102,
@@ -17,9 +19,11 @@
     "quality": 6,
     "price": 500000,
     "weight": 16.66,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/1/1f/Guardian%27s_Horn.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Guardian's_Horn.png"
   },
   {
     "id": 312153103,
@@ -28,9 +32,11 @@
     "quality": 6,
     "price": 252005,
     "weight": 9.8,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/2/24/Deerclops_Eyeball.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Deerclops_Eyeball.png"
   },
   {
     "id": 312153104,
@@ -39,9 +45,11 @@
     "quality": 1,
     "price": 200,
     "weight": 0.3,
-    "tags": ["Daily"],
+    "tags": [
+      "Daily"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/a/a0/Razor.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Razor.png"
   },
   {
     "id": 312153105,
@@ -50,9 +58,14 @@
     "quality": 5,
     "price": 2357,
     "weight": 0.45,
-    "tags": ["DontDropOnDeadInSlot", "Weapon", "MeleeWeapon", "Special"],
+    "tags": [
+      "DontDropOnDeadInSlot",
+      "Weapon",
+      "MeleeWeapon",
+      "Special"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/4/43/Glass_Cutter.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Glass_Cutter.png"
   },
   {
     "id": 312153106,
@@ -61,9 +74,13 @@
     "quality": 1,
     "price": 378,
     "weight": 0.95,
-    "tags": ["DontDropOnDeadInSlot", "Weapon", "MeleeWeapon"],
+    "tags": [
+      "DontDropOnDeadInSlot",
+      "Weapon",
+      "MeleeWeapon"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/f/fb/Axe.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Axe.png"
   },
   {
     "id": 312153107,
@@ -72,9 +89,11 @@
     "quality": 3,
     "price": 566,
     "weight": 0.05,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/9/90/Moon_Shard.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Moon_Shard.png"
   },
   {
     "id": 312153108,
@@ -83,9 +102,13 @@
     "quality": 7,
     "price": 31215310,
     "weight": 0.2,
-    "tags": ["DecorateEquipment", "Helmat", "Luxury"],
+    "tags": [
+      "DecorateEquipment",
+      "Helmat",
+      "Luxury"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/e/ea/Enlightened_Crown.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Enlightened_Crown.png"
   },
   {
     "id": 312153109,
@@ -94,9 +117,13 @@
     "quality": 6,
     "price": 8120,
     "weight": 1.8,
-    "tags": ["Helmat", "Special", "Equipment"],
+    "tags": [
+      "Helmat",
+      "Special",
+      "Equipment"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/b/bc/Bone_Helm.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Bone_Helm.png"
   },
   {
     "id": 312153110,
@@ -105,9 +132,12 @@
     "quality": 1,
     "price": 10,
     "weight": 0.1,
-    "tags": ["Tool", "Daily"],
+    "tags": [
+      "Tool",
+      "Daily"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/b/ba/Stone_Fruit.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Stone_Fruit.png"
   },
   {
     "id": 312153111,
@@ -116,9 +146,11 @@
     "quality": 9,
     "price": 51,
     "weight": 0.1,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/7/79/Ripe_Stone_Fruit.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Ripe_Stone_Fruit.png"
   },
   {
     "id": 312153112,
@@ -127,9 +159,11 @@
     "quality": 9,
     "price": 25,
     "weight": 0.4,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/b/b1/Bone_Shards.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Bone_Shards.png"
   },
   {
     "id": 312153113,
@@ -138,9 +172,11 @@
     "quality": 9,
     "price": 120,
     "weight": 0.15,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/3/3c/Nightmare_Fuel.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Nightmare_Fuel.png"
   },
   {
     "id": 312153114,
@@ -149,9 +185,11 @@
     "quality": 9,
     "price": 25,
     "weight": 0.4,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/e/e0/Log.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Log.png"
   },
   {
     "id": 312153115,
@@ -160,9 +198,11 @@
     "quality": 2,
     "price": 200,
     "weight": 0.39,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/5/58/Meat.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Meat.png"
   },
   {
     "id": 312153116,
@@ -171,9 +211,11 @@
     "quality": 9,
     "price": 100,
     "weight": 0.18,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/2/2e/Morsel.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Morsel.png"
   },
   {
     "id": 312153117,
@@ -182,9 +224,11 @@
     "quality": 9,
     "price": 12,
     "weight": 0.4,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/7/76/Twigs.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Twigs.png"
   },
   {
     "id": 312153118,
@@ -193,9 +237,11 @@
     "quality": 2,
     "price": 120,
     "weight": 0.5,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/a/a0/Pig_Skin.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Pig_Skin.png"
   },
   {
     "id": 312153119,
@@ -204,9 +250,14 @@
     "quality": 3,
     "price": 663,
     "weight": 0.45,
-    "tags": ["DontDropOnDeadInSlot", "Weapon", "MeleeWeapon", "Special"],
+    "tags": [
+      "DontDropOnDeadInSlot",
+      "Weapon",
+      "MeleeWeapon",
+      "Special"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/b/b9/Ham_Bat.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Ham_Bat.png"
   },
   {
     "id": 312153120,
@@ -215,9 +266,11 @@
     "quality": 2,
     "price": 368,
     "weight": 0.08,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/b/bf/Meatballs.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Meatballs.png"
   },
   {
     "id": 312153121,
@@ -226,9 +279,11 @@
     "quality": 1,
     "price": 25,
     "weight": 0.03,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/2/24/Berries.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Berries.png"
   },
   {
     "id": 312153122,
@@ -237,9 +292,11 @@
     "quality": 2,
     "price": 563,
     "weight": 0.68,
-    "tags": ["Food"],
+    "tags": [
+      "Food"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/d/d4/Meaty_Stew.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Meaty_Stew.png"
   },
   {
     "id": 312153123,
@@ -248,9 +305,14 @@
     "quality": 5,
     "price": 4863,
     "weight": 0.45,
-    "tags": ["DontDropOnDeadInSlot", "Weapon", "MeleeWeapon", "Special"],
+    "tags": [
+      "DontDropOnDeadInSlot",
+      "Weapon",
+      "MeleeWeapon",
+      "Special"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/b/b6/Walking_Cane.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Walking_Cane.png"
   },
   {
     "id": 312153124,
@@ -259,9 +321,11 @@
     "quality": 2,
     "price": 1023,
     "weight": 0.4,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/c/cf/Gold_Nugget.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Gold_Nugget.png"
   },
   {
     "id": 312153125,
@@ -270,9 +334,11 @@
     "quality": 3,
     "price": 3070,
     "weight": 4,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/3/35/Walrus_Tusk.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Walrus_Tusk.png"
   },
   {
     "id": 312153126,
@@ -281,9 +347,11 @@
     "quality": 9,
     "price": 2047,
     "weight": 0.4,
-    "tags": ["Tool"],
+    "tags": [
+      "Tool"
+    ],
     "market": [],
-    "image": "https://huiji-public.huijistatic.com/dontstarve/uploads/2/2e/Flint.png"
+    "image": "https://raw.githubusercontent.com/Miooowo/miowo_photobed/main/dst64/Flint.png"
   },
   {
     "id": 312153127,
@@ -292,7 +360,9 @@
     "quality": 3,
     "price": 30,
     "weight": 0.1,
-    "tags": ["Daily"],
+    "tags": [
+      "Daily"
+    ],
     "market": [],
     "image": "https://i.imgur.com/zvCJrik.png"
   }

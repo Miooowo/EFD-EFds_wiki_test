@@ -14,17 +14,11 @@ hero:
       link: /data/item-editor.html
 
 features:
-  - title: 🔍 全面的搜索功能
+  - title: 🔍 方便的搜索
     details: 支持物品ID、中文名、英文名和标签搜索，快速定位所需物品
-  - title: 🎯 智能筛选系统
+  - title: 🎯 更好的筛选
     details: 按品质等级（1-9级）和分类筛选，轻松找到目标物品
-  - title: 📊 详细物品信息
-    details: 包含物品描述、价格、格子占用、市场交易等信息
-  - title: 🎨 精美卡片展示
-    details: 高品质UI设计，不同品质物品用颜色区分，视觉清晰明了
-  - title: 📱 响应式设计
-    details: 完美支持手机、平板和电脑等多终端访问
-  - title: ⚡ 实时搜索
-    details: 输入即搜索，毫秒级响应速度，流畅体验
+  - title: 📊 简单但够看
+    details: 包含物品价格、重量、标签、品质等信息
 ---
 
